@@ -1,0 +1,26 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+        <file>icons/noop_cursor.png</file>
+        <file>icons/contextHelp.png</file>
+        <file>icons/geo_off.png</file>
+        <file>icons/geo_decal.png</file>
+        <file>icons/geo_modulate.png</file>
+        <file>icons/fileopen.png</file>
+        <file>icons/geotiffopen.png</file>
+        <file>icons/prefs.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/rotate.png</file>
+        <file>icons/reset_view.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/bagViewer.png</file>
+        <file>icons/bagViewerSplash.png</file>
+        <file>icons/rotate_cursor.png</file>
+        <file>icons/zoom_cursor.png</file>
+        <file>icons/color_by_depth.png</file>
+        <file>icons/stddev.png</file>
+        <file>icons/min.png</file>
+        <file>icons/avg.png</file>
+        <file>icons/displayfeature.png</file>
+        <file>icons/displayfeatureinfo.png</file>
+ </qresource>
+ </RCC>
